@@ -1,0 +1,9 @@
+project:
+  output-dir: _docs
+
+website:
+  title: "kaggle"
+  site-url: "https://bkowshik.github.io/kaggle"
+  description: "A winning entry is made of many small steps - Vik Paruchuri"
+  repo-branch: main
+  repo-url: "https://github.com/bkowshik/kaggle"
