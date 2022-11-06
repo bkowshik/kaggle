@@ -5,4 +5,5 @@ d = { 'settings': { 'branch': 'main',
                 'doc_host': 'https://bkowshik.github.io',
                 'git_url': 'https://github.com/bkowshik/kaggle',
                 'lib_path': 'kaggle'},
-  'syms': {'kaggle.core': {'kaggle.core.foo': ('core.html#foo', 'kaggle/core.py')}}}
+  'syms': { 'kaggle.core': { 'kaggle.core.foo': ('kaggle.html#foo', 'kaggle/core.py'),
+                             'kaggle.core.say_hello': ('kaggle.html#say_hello', 'kaggle/core.py')}}}
